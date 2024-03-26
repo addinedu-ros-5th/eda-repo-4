@@ -53,9 +53,15 @@
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 17 04" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/87c70166-2930-439a-a215-21440d93feca">
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 17 25" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/b66115a0-34be-4c22-87b5-a9fd8f42e661">
 <img width="950" alt="스크린샷 2024-03-26 오후 5 17 33" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/38072578-e8c6-40fb-86ab-ba8d0f1479ee">
-<img width="950" alt="스크린샷 2024-03-26 오후 5 17 46" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/a7ece542-6b71-4cdc-bff7-fa25b31c3c86">
+
 
 - 해당 자료만으로는 특정 성분이 해당 리뷰 평가와 가격등에 요소에 영향을 미치는지 단정 짖기 어려워 가격을 제외하고 리뷰평가 별로 만 비교해 봄
+
+<img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 24 20" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/3266ddac-fa8e-4f30-af81-9e1ef324db33">
+<img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 24 28" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/167227df-125e-418c-a07c-0848fb4cd965">
+<img width="950" alt="스크린샷 2024-03-26 오후 5 24 59" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/01a24fa8-c723-4a76-b65a-3daa80c44140">
+
+
 
 
 
