@@ -53,6 +53,7 @@
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 17 04" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/87c70166-2930-439a-a215-21440d93feca">
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 17 25" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/b66115a0-34be-4c22-87b5-a9fd8f42e661">
 <img width="950" alt="스크린샷 2024-03-26 오후 5 17 33" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/38072578-e8c6-40fb-86ab-ba8d0f1479ee">
+<img width="950" alt="스크린샷 2024-03-26 오후 5 37 14" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/1fe47b72-8bd6-437b-a369-ba8cd4edd875">
 
 
 - 해당 자료만으로는 특정 성분이 해당 리뷰 평가와 가격등에 요소에 영향을 미치는지 단정 짖기 어려워 가격을 제외하고 리뷰평가 별로 만 비교해 봄
@@ -60,6 +61,11 @@
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 24 20" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/3266ddac-fa8e-4f30-af81-9e1ef324db33">
 <img width="400" height="350" alt="스크린샷 2024-03-26 오후 5 24 28" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/167227df-125e-418c-a07c-0848fb4cd965">
 <img width="950" alt="스크린샷 2024-03-26 오후 5 24 59" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/01a24fa8-c723-4a76-b65a-3daa80c44140">
+<img width="950" alt="스크린샷 2024-03-26 오후 5 39 45" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/6cc0f90a-8a46-472b-947f-d4bf525c46ee">
+
+- 리뷰평이 높으면서 가격이 높은 제품들에 글리세린, 부틸렌글라이콜,에틸핵글리세린 등의 성분 빈도가 높은 모습을 볼 수 있다.
+- 하지만 성분의 종류가 많고 해당 빈도수가 높게 나온 성분들이 실제로 화장품의 기능과 관련이 있는지 정확하지 않기 때문에 
+- 정확한 성분 분석을 위해 '글로우픽' 웹페이지에서 제품을 검색해 제품의 성분의 위험도와 기능등에 대한 정보를 크롤링 해봄
 
 
 
