@@ -1,5 +1,6 @@
 # <img src = "https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/f905a6e2-c402-4258-87bd-a84215d9b586" width="37" height="37"> 스킨케어 제품 분석 <img src = "https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/f905a6e2-c402-4258-87bd-a84215d9b586" width="37" height="37">
 
+![스크린샷 2024-03-26 오전 11 42 28](https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/8f9b11df-8d88-40db-8536-563e86fa02c1)
 
 
 # 1. 👨‍🏫 프로젝트 소게 👨‍🏫
@@ -44,8 +45,7 @@
 
 
 ## 2.4 수집한 데이터를 데이터 베이스에 저장 ✓
-
-
+<img width="961" alt="스크린샷 2024-03-26 오전 11 11 36" src="https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/82f4bdc9-67eb-4ac8-8faf-81c1503f8de4">
 
 # 3. 📊데이터 분석 및 시각화📊
 ## 3.1 제품의 가격, 브랜드, 평점, 리뷰정보 데이터를 분석해 브랜드별 제품의 특징을 분석 🧐
@@ -55,6 +55,7 @@
 
 # 4. 📺 분석한 데이터를 바탕으로 한 GUI 서비스 📺
 - 원하는 스킨케어 제품 항목을 선택하고 제품의 세부 내용을 결정시 조건에 맞는 제품을 추천
+![스크린샷 2024-03-26 오전 11 23 16](https://github.com/addinedu-ros-5th/eda-repo-4/assets/163790408/fe564fb2-fab4-4fd0-99d0-a0164ac07da7)
    
 
 
